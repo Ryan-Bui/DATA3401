@@ -1,4 +1,4 @@
-# DATA 3401 - Fall 2021
+# DATA 3401 &ndash; Fall 2021
  **Name:** Ryan Bui\
  **Email:** ryan.bui@mavs.uta.edu\
  **UTA Student ID:** 1001788146\
